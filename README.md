@@ -24,7 +24,7 @@ Yêu cầu: Python 3.10 trở lên
 
 Cách chạy chương trình
 
-1.Tải 3 file .py từ GitHub về máy 
+1.Tải 3 file .py từ source_code trên GitHub về máy 
 
 2.Mở cmd tại thư mục chứa các file
 
