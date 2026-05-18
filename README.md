@@ -23,6 +23,9 @@ Alpha-Beta Pruning: Bản cải tiến giúp cắt tỉa các nhánh không cầ
 Yêu cầu: Python 3.10 trở lên
 
 Cách chạy chương trình
+
 1.Tải 3 file .py từ GitHub về máy 
+
 2.Mở cmd tại thư mục chứa các file
+
 3.Chạy lệnh python source_code/main.py để khởi động 
